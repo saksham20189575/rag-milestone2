@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Mutual Fund FAQ Assistant</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "error": "#ba1a1a",
+                        "primary": "#005c55",
+                        "surface-variant": "#e0e3e5",
+                        "surface-bright": "#f7f9fb",
+                        "inverse-surface": "#2d3133",
+                        "text-primary": "#0F172A",
+                        "on-error-container": "#93000a",
+                        "on-surface-variant": "#3e4947",
+                        "inverse-on-surface": "#eff1f3",
+                        "on-tertiary-fixed-variant": "#72361b",
+                        "text-secondary": "#64748B",
+                        "surface-dim": "#d8dadc",
+                        "on-secondary-fixed-variant": "#38485d",
+                        "surface": "#f7f9fb",
+                        "surface-container-low": "#f2f4f6",
+                        "on-error": "#ffffff",
+                        "on-tertiary": "#ffffff",
+                        "inverse-primary": "#80d5cb",
+                        "primary-fixed-dim": "#80d5cb",
+                        "surface-container-high": "#e6e8ea",
+                        "on-secondary": "#ffffff",
+                        "surface-container-lowest": "#ffffff",
+                        "secondary-container": "#d0e1fb",
+                        "on-surface": "#191c1e",
+                        "border-subtle": "#E2E8F0",
+                        "tertiary-fixed-dim": "#ffb598",
+                        "on-tertiary-container": "#ffe5db",
+                        "on-primary": "#ffffff",
+                        "on-primary-fixed-variant": "#00504a",
+                        "surface-tint": "#006a63",
+                        "surface-container-highest": "#e0e3e5",
+                        "primary-fixed": "#9cf2e8",
+                        "on-primary-fixed": "#00201d",
+                        "outline-variant": "#bdc9c6",
+                        "on-secondary-container": "#54647a",
+                        "secondary": "#505f76",
+                        "compliance-amber": "#D97706",
+                        "surface-white": "#FFFFFF",
+                        "error-container": "#ffdad6",
+                        "tertiary-fixed": "#ffdbce",
+                        "surface-container": "#eceef0",
+                        "on-tertiary-fixed": "#370e00",
+                        "on-secondary-fixed": "#0b1c30",
+                        "tertiary": "#7f4025",
+                        "tertiary-container": "#9c573a",
+                        "on-primary-container": "#a3faef",
+                        "secondary-fixed": "#d3e4fe",
+                        "background": "#f8fafc",
+                        "secondary-fixed-dim": "#b7c8e1",
+                        "on-background": "#191c1e",
+                        "outline": "#6e7977",
+                        "primary-container": "#0f766e"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "md": "0.5rem",
+                        "lg": "0.75rem",
+                        "xl": "1rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "unit": "4px",
+                        "message-gap": "12px",
+                        "container-max-width": "720px",
+                        "gutter": "24px",
+                        "margin-mobile": "16px",
+                        "section-padding": "40px"
+                    },
+                    "fontFamily": {
+                        "headline-lg": ["Inter"],
+                        "headline-md": ["Inter"],
+                        "body-sm": ["Inter"],
+                        "body-lg": ["Inter"],
+                        "label-md": ["Inter"],
+                        "label-sm": ["Inter"],
+                        "body-md": ["Inter"],
+                        "headline-sm": ["Inter"]
+                    },
+                    "fontSize": {
+                        "headline-lg": ["32px", { "lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+                        "headline-md": ["24px", { "lineHeight": "1.3", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                        "body-sm": ["14px", { "lineHeight": "1.5", "fontWeight": "400" }],
+                        "body-lg": ["18px", { "lineHeight": "1.6", "fontWeight": "400" }],
+                        "label-md": ["14px", { "lineHeight": "1.2", "letterSpacing": "0.01em", "fontWeight": "500" }],
+                        "label-sm": ["12px", { "lineHeight": "1.2", "letterSpacing": "0.05em", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "1.6", "fontWeight": "400" }],
+                        "headline-sm": ["18px", { "lineHeight": "1.4", "fontWeight": "600" }]
+                    },
+                    "boxShadow": {
+                        "sm": "0 1px 2px 0 rgb(0 0 0 / 0.05)",
+                        "soft": "0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05)",
+                        "sticky": "0 10px 15px -3px rgb(0 0 0 / 0.05), 0 4px 6px -4px rgb(0 0 0 / 0.05)"
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        body { font-family: 'Inter', sans-serif; }
+        .scrollbar-hide::-webkit-scrollbar { display: none; }
+        .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+</head>
+<body class="bg-background text-text-primary h-screen flex flex-col items-center antialiased overflow-hidden">
+<!-- Sticky Header (TopAppBar JSON logic mapped) -->
+<header class="w-full bg-surface-white border-b border-border-subtle shadow-sm flex flex-col z-50 sticky top-0">
+<div class="flex flex-col w-full max-w-container-max-width mx-auto px-margin-mobile md:px-gutter py-4 transition-all duration-200 ease-in-out">
+<div class="flex justify-between items-center w-full">
+<div class="flex flex-col">
+<h1 class="font-headline-md text-headline-md text-text-primary font-semibold">Mutual Fund FAQ Assistant</h1>
+<p class="font-body-sm text-body-sm text-text-secondary mt-1">HDFC schemes · Groww sources</p>
+</div>
+<div class="flex gap-2">
+<button aria-label="Info" class="p-2 text-text-secondary hover:text-primary transition-colors duration-200 ease-in-out rounded-full hover:bg-surface-container-low">
+<span class="material-symbols-outlined" data-icon="info" data-weight="regular">info</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Disclaimer Banner -->
+<div class="w-full bg-amber-50 border-b border-amber-200">
+<div class="max-w-container-max-width mx-auto px-margin-mobile md:px-gutter py-2 flex items-center gap-2">
+<span class="material-symbols-outlined text-compliance-amber text-[16px]">info</span>
+<p class="font-body-sm text-body-sm text-compliance-amber font-medium">Facts-only. No investment advice.</p>
+</div>
+</div>
+</header>
+<!-- Main Chat Area -->
+<main class="flex-1 w-full max-w-container-max-width mx-auto px-margin-mobile md:px-gutter py-section-padding overflow-y-auto scrollbar-hide flex flex-col gap-[24px] pb-[140px]">
+<!-- Welcome Section -->
+<div class="flex flex-col items-center text-center max-w-[540px] mx-auto mt-8 mb-4">
+<div class="w-16 h-16 bg-surface-white rounded-full shadow-soft flex items-center justify-center mb-6 border border-border-subtle">
+<span class="material-symbols-outlined text-primary text-[32px]">support_agent</span>
+</div>
+<p class="font-body-lg text-body-lg text-text-primary mb-8 leading-relaxed">
+                Ask factual questions about 5 HDFC mutual fund schemes... I answer expense ratios, exit loads, lock-in periods... never investment advice.
+            </p>
+<div class="w-full">
+<p class="font-label-sm text-label-sm text-text-secondary uppercase tracking-wider mb-4">Try an example question</p>
+<div class="flex flex-col gap-3 w-full">
+<button class="w-full text-left px-4 py-3 bg-surface-white border border-border-subtle rounded-full text-text-primary font-body-sm hover:border-text-secondary hover:bg-surface-bright transition-all shadow-sm">
+                        What is the expense ratio of HDFC Large Cap Fund Direct Growth?
+                    </button>
+<button class="w-full text-left px-4 py-3 bg-surface-white border border-border-subtle rounded-full text-text-primary font-body-sm hover:border-text-secondary hover:bg-surface-bright transition-all shadow-sm">
+                        What is the ELSS lock-in period for HDFC ELSS Tax Saver?
+                    </button>
+<button class="w-full text-left px-4 py-3 bg-surface-white border border-border-subtle rounded-full text-text-primary font-body-sm hover:border-text-secondary hover:bg-surface-bright transition-all shadow-sm">
+                        What is the exit load on HDFC Mid Cap Fund Direct Growth?
+                    </button>
+</div>
+</div>
+</div>
+<!-- Chat Flow: Turn 1 -->
+<div class="flex flex-col gap-message-gap">
+<!-- User Message -->
+<div class="flex justify-end w-full">
+<div class="bg-primary-container text-white px-5 py-4 rounded-t-xl rounded-bl-xl rounded-br-sm max-w-[85%] shadow-soft">
+<p class="font-body-md text-body-md">What is the expense ratio of HDFC Large Cap Fund Direct Growth?</p>
+</div>
+</div>
+<!-- Assistant Message -->
+<div class="flex justify-start w-full gap-3">
+<div class="w-8 h-8 rounded-full bg-surface-white border border-border-subtle flex-shrink-0 flex items-center justify-center shadow-sm">
+<span class="material-symbols-outlined text-primary text-[18px]">smart_toy</span>
+</div>
+<div class="flex flex-col gap-2 max-w-[85%] w-full">
+<span class="font-label-sm text-label-sm text-text-secondary">Assistant</span>
+<div class="bg-surface-white border border-border-subtle rounded-t-xl rounded-br-xl rounded-bl-sm p-5 shadow-soft flex flex-col gap-4">
+<p class="font-body-md text-body-md text-text-primary leading-relaxed">
+                            The direct plan growth option of HDFC Large Cap Fund carries an expense ratio of 0.96% as of the latest disclosure.
+                        </p>
+<div class="bg-surface-bright p-3 rounded-md border border-border-subtle mt-2 flex items-center justify-between">
+<span class="font-body-sm text-body-sm text-text-secondary flex items-center gap-2">
+<span class="material-symbols-outlined text-[16px]">menu_book</span>
+                                Source: HDFC Large Cap Fund Direct Growth — Groww
+                            </span>
+<a class="text-primary hover:text-primary-container" href="#">
+<span class="material-symbols-outlined text-[18px]">open_in_new</span>
+</a>
+</div>
+<div class="flex items-center justify-between mt-2 pt-3 border-t border-border-subtle text-text-secondary">
+<span class="font-label-sm text-label-sm">Last updated: 2025-07-31</span>
+<span class="font-label-sm text-label-sm flex items-center gap-1 text-compliance-amber">
+<span class="material-symbols-outlined text-[14px]">warning</span>
+                                Facts-only. No investment advice.
+                            </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Chat Flow: Turn 2 -->
+<div class="flex flex-col gap-message-gap mt-4">
+<!-- User Message -->
+<div class="flex justify-end w-full">
+<div class="bg-primary-container text-white px-5 py-4 rounded-t-xl rounded-bl-xl rounded-br-sm max-w-[85%] shadow-soft">
+<p class="font-body-md text-body-md">Should I invest in HDFC Mid Cap Fund?</p>
+</div>
+</div>
+<!-- Assistant Refusal Message -->
+<div class="flex justify-start w-full gap-3">
+<div class="w-8 h-8 rounded-full bg-surface-white border border-border-subtle flex-shrink-0 flex items-center justify-center shadow-sm">
+<span class="material-symbols-outlined text-primary text-[18px]">smart_toy</span>
+</div>
+<div class="flex flex-col gap-2 max-w-[85%] w-full">
+<span class="font-label-sm text-label-sm text-text-secondary">Assistant</span>
+<div class="bg-surface-white border border-border-subtle rounded-t-xl rounded-br-xl rounded-bl-sm p-5 shadow-soft flex flex-col gap-4">
+<div class="flex items-start gap-3">
+<span class="material-symbols-outlined text-compliance-amber mt-1">policy</span>
+<p class="font-body-md text-body-md text-text-primary leading-relaxed">
+                                I can only answer factual questions about mutual fund mechanics. I cannot provide investment advice or recommendations on whether you should invest in specific funds.
+                            </p>
+</div>
+<div class="bg-surface-bright p-3 rounded-md border border-border-subtle mt-2 flex items-center justify-between">
+<span class="font-body-sm text-body-sm text-text-secondary flex items-center gap-2">
+<span class="material-symbols-outlined text-[16px]">menu_book</span>
+                                Mutual Funds on Groww
+                            </span>
+<a class="text-primary hover:text-primary-container" href="#">
+<span class="material-symbols-outlined text-[18px]">open_in_new</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- Bottom Input Bar (Sticky) -->
+<div class="fixed bottom-0 w-full bg-surface-white/95 backdrop-blur-md border-t border-border-subtle shadow-sticky z-50 pt-4 pb-6 px-margin-mobile md:px-gutter">
+<div class="max-w-container-max-width mx-auto flex flex-col gap-2">
+<div class="relative flex items-center w-full">
+<input aria-label="Ask a question input" class="w-full bg-surface-bright border border-border-subtle rounded-lg py-4 pl-4 pr-16 font-body-md text-text-primary placeholder-text-secondary focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent shadow-inner" placeholder="Ask a factual question about HDFC schemes..." type="text"/>
+<button class="absolute right-2 top-1/2 -translate-y-1/2 bg-primary hover:bg-primary-container text-white p-2 rounded-md transition-transform hover:-translate-y-[calc(50%+2px)] flex items-center justify-center shadow-sm">
+<span class="material-symbols-outlined" data-icon="send" data-weight="fill">send</span>
+</button>
+</div>
+<p class="font-label-sm text-label-sm text-text-secondary text-center mt-1 flex items-center justify-center gap-1">
+<span class="material-symbols-outlined text-[14px]">lock</span>
+                Do not enter PAN, Aadhaar, phone, or account numbers.
+            </p>
+</div>
+<!-- Subtle Footer implementation via Shared Components styling logic -->
+<div class="max-w-[800px] mx-auto mt-4 pt-2 border-t border-border-subtle flex justify-center opacity-70">
+<div class="flex gap-4">
+<a class="font-label-sm text-label-sm text-text-secondary hover:text-primary transition-colors" href="#">Privacy Policy</a>
+<a class="font-label-sm text-label-sm text-text-secondary hover:text-primary transition-colors" href="#">Terms of Service</a>
+</div>
+</div>
+</div>
+</body></html>

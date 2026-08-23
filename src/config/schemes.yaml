@@ -1,0 +1,28 @@
+amc: HDFC Mutual Fund
+refusal_citation_url: https://groww.in/p/mutual-funds
+
+schemes:
+  - scheme_id: hdfc-mid-cap-fund-direct-growth
+    scheme_name: HDFC Mid Cap Fund Direct Growth
+    category: Mid-cap
+    source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+
+  - scheme_id: hdfc-small-cap-fund-direct-growth
+    scheme_name: HDFC Small Cap Fund Direct Growth
+    category: Small-cap
+    source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+
+  - scheme_id: hdfc-gold-etf-fund-of-fund-direct-plan-growth
+    scheme_name: HDFC Gold ETF Fund of Fund Direct Plan Growth
+    category: Gold / FoF
+    source_url: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
+
+  - scheme_id: hdfc-large-cap-fund-direct-growth
+    scheme_name: HDFC Large Cap Fund Direct Growth
+    category: Large-cap
+    source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+
+  - scheme_id: hdfc-elss-tax-saver-fund-direct-plan-growth
+    scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
+    category: ELSS
+    source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth

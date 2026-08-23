@@ -1,0 +1,15 @@
+{
+  "scheme_id": "hdfc-mid-cap-fund-direct-growth",
+  "scheme_name": "HDFC Mid Cap Fund Direct Growth",
+  "category": "Mid-cap",
+  "doc_id": "groww_scheme_page",
+  "document_type": "groww_scheme_page",
+  "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+  "source_domain": "groww.in",
+  "document_date": "2026-08-21",
+  "parsed_at": "2026-08-23T10:06:16Z",
+  "fetched_at": "2026-08-23T10:06:15Z",
+  "parse_method": "beautifulsoup+trafilatura",
+  "char_count": 22904,
+  "raw_html_path": "data/raw/hdfc-mid-cap-fund-direct-growth/page.html"
+}
