@@ -3,10 +3,10 @@ HDFC Mid Cap Fund Direct Growth
 Equity
 Mid Cap
 Very High Risk
-+20.00
++17.03
 %
 3Y annualised
-+0.07
+-0.63
 %
 1D
 1M
@@ -15,12 +15,12 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 21 Aug '26
-₹236.59
+NAV: 09 Sep '26
+₹232.27
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹1,05,142.69 Cr
+₹1,08,324.55 Cr
 Expense ratio
 0.75%
 Rating
@@ -39,22 +39,22 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹64,102
-+ 6.84 %
+₹62,705
++ 4.51 %
 3 years
 ₹1,80,000
-₹2,18,635
-+ 21.46 %
+₹2,12,281
++ 17.93 %
 5 years
 ₹3,00,000
-₹4,86,318
-+ 62.11 %
+₹4,72,909
++ 57.64 %
 10 years
 ₹6,00,000
-₹17,24,487
-+ 187.41 %
+₹16,82,929
++ 180.49 %
 
-Holdings ( 78 )
+Holdings ( 81 )
 
 Name
 Sector
@@ -63,243 +63,235 @@ Assets
 Repo
 Unspecified
 Repo
-8.11%
+6.92%
 The Federal Bank Ltd
 Financial
 Equity
-4.18%
-Max Financial Services Ltd
-Financial
-Equity
-4.10%
+4.36%
 AU Small Finance Bank Ltd
 Financial
 Equity
-4.08%
+3.96%
+Max Financial Services Ltd
+Financial
+Equity
+3.72%
 Balkrishna Industries Ltd
 Consumer Discretionary
 Equity
-3.10%
-Fortis Healthcare Ltd
-Healthcare
-Equity
-3.07%
+3.37%
 Ipca Laboratories Ltd
 Healthcare
 Equity
-3.05%
+3.01%
 Indian Bank
 Financial
 Equity
-2.98%
+2.93%
+Fortis Healthcare Ltd
+Healthcare
+Equity
+2.91%
 Glenmark Pharmaceuticals Ltd
 Healthcare
 Equity
-2.93%
-Vishal Mega Mart Ltd.
-Consumer Staples
+2.85%
+Coforge Ltd
+Technology
 Equity
-2.64%
-Cummins India Ltd
-Industrials
-Equity
-2.52%
+2.56%
 Marico Ltd
 Consumer Staples
 Equity
 2.51%
-Coforge Ltd
-Technology
-Equity
-2.27%
-Hindustan Petroleum Corporation Ltd
-Energy & Utilities
-Equity
-2.27%
-Tata Communications Ltd
-Technology
-Equity
-2.18%
-Aurobindo Pharma Ltd
-Healthcare
-Equity
-2.09%
 Mahindra & Mahindra Financial Services Ltd
 Financial
 Equity
-2.07%
-Apollo Tyres Ltd
-Consumer Discretionary
+2.43%
+Vishal Mega Mart Ltd.
+Consumer Staples
 Equity
-1.79%
-Alkem Laboratories Ltd
-Healthcare
+2.30%
+Hindustan Petroleum Corporation Ltd
+Energy & Utilities
 Equity
-1.75%
-AIA Engineering Ltd
+2.26%
+Cummins India Ltd
 Industrials
 Equity
-1.68%
+2.19%
+Aurobindo Pharma Ltd
+Healthcare
+Equity
+2.01%
 United Spirits Ltd
 Consumer Staples
 Equity
-1.60%
-Gland Pharma Ltd
+1.98%
+Tata Communications Ltd
+Technology
+Equity
+1.86%
+Persistent Systems Ltd
+Technology
+Equity
+1.81%
+Alkem Laboratories Ltd
 Healthcare
 Equity
-1.56%
+1.73%
+Apollo Tyres Ltd
+Consumer Discretionary
+Equity
+1.71%
+Mphasis Ltd
+Technology
+Equity
+1.59%
 Dabur India Ltd
 Consumer Staples
 Equity
-1.56%
+1.55%
 Jindal Steel & Power Ltd
 Materials
-Equity
-1.55%
-Union Bank of India
-Financial
 Equity
 1.54%
 PB Fintech Ltd
 Financial
 Equity
-1.53%
-Delhivery Ltd
+1.49%
+AIA Engineering Ltd
 Industrials
 Equity
 1.48%
-Mphasis Ltd
-Technology
+Union Bank of India
+Financial
 Equity
-1.46%
-Persistent Systems Ltd
-Technology
+1.47%
+Delhivery Ltd
+Industrials
+Equity
+1.45%
+Gland Pharma Ltd
+Healthcare
 Equity
 1.44%
 Bharat Forge Ltd
 Consumer Discretionary
 Equity
-1.37%
-Bosch Ltd
-Consumer Discretionary
-Equity
-1.24%
-Star Health & Allied Insurance Co. Ltd
-Financial
-Equity
-1.20%
+1.35%
 Karur Vysya Bank Ltd
 Financial
 Equity
-1.17%
-Nippon Life India Asset Management Ltd
-Financial
-Equity
-1.14%
-Coromandel International Ltd
-Materials
-Equity
-1.06%
+1.28%
 Zomato Ltd
 Technology
 Equity
-1.05%
-The Indian Hotels Company Ltd
+1.24%
+Bosch Ltd
 Consumer Discretionary
 Equity
-1.00%
+1.22%
+Star Health & Allied Insurance Co. Ltd
+Financial
+Equity
+1.18%
 Indusind Bank Ltd
 Financial
+Equity
+1.14%
+Nippon Life India Asset Management Ltd
+Financial
+Equity
+1.10%
+Coromandel International Ltd
+Materials
+Equity
+1.09%
+The Indian Hotels Company Ltd
+Consumer Discretionary
 Equity
 0.99%
 Escorts Kubota Ltd
 Industrials
 Equity
-0.84%
-Indraprastha Gas Ltd
-Energy & Utilities
-Equity
-0.84%
+0.87%
 Godrej Consumer Products Ltd
 Consumer Staples
 Equity
-0.83%
-Crompton Greaves Consumer Electricals Ltd
-Consumer Discretionary
-Equity
-0.78%
+0.84%
 Redington Ltd
 Technology
 Equity
-0.78%
-Timken India Ltd
-Industrials
+0.84%
+ICICI Lombard General Insurance Company Ltd
+Financial
 Equity
-0.76%
+0.83%
 HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
 Technology
 Equity
-0.76%
-City Union Bank Ltd
-Financial
+0.80%
+Indraprastha Gas Ltd
+Energy & Utilities
+Equity
+0.74%
+Sona BLW Precision Forgings Ltd
+Consumer Discretionary
+Equity
+0.74%
+Crompton Greaves Consumer Electricals Ltd
+Consumer Discretionary
+Equity
+0.71%
+Havells India Ltd
+Consumer Discretionary
+Equity
+0.70%
+Dixon Technologies (India) Ltd
+Consumer Discretionary
 Equity
 0.69%
 Sundram Fasteners Ltd
 Industrials
 Equity
 0.67%
-SKF India (Industrial) Ltd
-Industrials
+City Union Bank Ltd
+Financial
 Equity
-0.67%
+0.65%
 ACC Ltd
 Materials
 Equity
-0.62%
-Sona BLW Precision Forgings Ltd
-Consumer Discretionary
-Equity
-0.62%
-Dixon Technologies (India) Ltd
-Consumer Discretionary
+0.61%
+SKF India (Industrial) Ltd
+Industrials
 Equity
 0.61%
+Timken India Ltd
+Industrials
+Equity
+0.58%
 Gujarat Fluorochemicals Ltd
 Materials
 Equity
-0.54%
+0.58%
 Supreme Industries Ltd
 Materials
 Equity
-0.52%
-KEC International Ltd
-Diversified
-Equity
-0.47%
-Arvind Ltd
-Consumer Discretionary
-Equity
-0.47%
-ICICI Lombard General Insurance Company Ltd
-Financial
-Equity
-0.45%
-Vardhman Textiles Ltd
-Consumer Discretionary
-Equity
-0.39%
-SKF India Ltd
-Industrials
-Equity
-0.39%
+0.55%
 Aster DM Healthcare Ltd
 Healthcare
 Equity
-0.39%
-Cholamandalam Financial Holdings Ltd
-Financial
+0.42%
+KEC International Ltd
+Diversified
 Equity
-0.37%
+0.40%
+Arvind Ltd
+Consumer Discretionary
+Equity
+0.40%
 Oracle Financial Services Software Ltd
 Technology
 Equity
@@ -307,59 +299,79 @@ Equity
 Aarti Industries Ltd
 Materials
 Equity
+0.36%
+Vardhman Textiles Ltd
+Consumer Discretionary
+Equity
 0.35%
-Vesuvius India Ltd
+Cholamandalam Financial Holdings Ltd
+Financial
+Equity
+0.33%
+SKF India Ltd
 Industrials
 Equity
 0.33%
+Vesuvius India Ltd
+Industrials
+Equity
+0.30%
+Mahindra CIE Automotive Ltd
+Consumer Discretionary
+Equity
+0.28%
 Emami Ltd
 Consumer Staples
 Equity
-0.30%
+0.28%
 Symphony Ltd
 Consumer Discretionary
 Equity
-0.25%
-Navneet Education Ltd
-Consumer Discretionary
-Equity
-0.22%
+0.24%
 Bharti Hexacom Ltd.
 Technology
 Equity
-0.20%
-Billionbrains Garage Ventures Ltd.
-Financial
+0.21%
+Colgate-Palmolive (India) Ltd
+Consumer Staples
+Equity
+0.21%
+Petronet LNG Ltd
+Energy & Utilities
 Equity
 0.20%
 Five-Star Business Finance Ltd
 Financial
 Equity
+0.20%
+Billionbrains Garage Ventures Ltd.
+Financial
+Equity
 0.19%
+Navneet Education Ltd
+Consumer Discretionary
+Equity
+0.18%
 Greenlam Industries Ltd
 Materials
 Equity
-0.16%
+0.15%
 Greenply Industries Ltd
 Materials
 Equity
-0.16%
-Colgate-Palmolive (India) Ltd
-Consumer Staples
-Equity
-0.16%
+0.15%
 LG Electronics India Ltd.
 Consumer Discretionary
 Equity
-0.15%
+0.14%
 KNR Constructions Ltd
 Industrials
 Equity
-0.14%
+0.12%
 Dhanuka Agritech Ltd
 Materials
 Equity
-0.11%
+0.10%
 Greenpanel Industries Ltd
 Materials
 Equity
@@ -367,11 +379,11 @@ Equity
 Jagran Prakashan Ltd
 Industrials
 Equity
-0.04%
-Net Payables
+0.03%
+Net Current Assets
 Unspecified
-Net Payables
--0.17%
+Net Current Assets
+0.02%
 See All
 
 Minimum investments
@@ -403,18 +415,18 @@ Name
 10Y
 All
 Fund returns
-+20.0%
-+21.4%
-+17.9%
-+20.4%
++17.0%
++19.3%
++17.3%
++20.1%
 Category average ( Equity Mid Cap )
 +21.6%
 +21.5%
 +16.0%
 --
 Rank ( Equity Mid Cap )
-13
-3
+14
+4
 8
 --
 
@@ -462,26 +474,26 @@ Name
 1Y
 3Y
 Fund Size(Cr)
+Invesco India Mid Cap Fund Direct Growth
++11.64%
++23.52%
+15,927.14
 WhiteOak Capital Mid Cap Fund Direct Growth
-+16.70%
-+24.34%
++16.16%
++21.78%
 6,792.14
 Edelweiss Mid Cap Direct Plan Growth
-+9.97%
-+23.49%
++9.96%
++20.76%
 18,693.49
-Sundaram Mid Cap Fund Direct Growth
-+10.37%
-+21.59%
-14,504.36
 Nippon India Growth Mid Cap Fund Direct Growth
-+10.21%
-+21.50%
-50,750.81
++9.70%
++17.88%
+52,270.55
 HDFC Mid Cap Fund Direct Growth
-+10.38%
-+20.00%
-1,05,142.69
++9.12%
++17.03%
+1,08,324.55
 Compare
 
 Fund management
@@ -495,6 +507,9 @@ Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., 
 Also manages these schemes
 HDFC Mid Cap Fund Direct Growth
 HDFC Small Cap Fund Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC Children's Fund Direct Plan
 
 DM Dhruv Muchhal Jun 2023 - Present View details
@@ -506,40 +521,37 @@ Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd
 Also manages these schemes
 HDFC Flexi Cap Direct Plan Growth
 HDFC Value Fund Direct Plan Growth
-HDFC Low Duration Fund Direct Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
 HDFC Focused Fund Direct Growth
-HDFC Floating Rate Debt Fund Direct Plan Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
 HDFC Balanced Advantage Fund Direct Growth
-HDFC Dynamic Debt Fund Direct Plan Growth
-HDFC Medium Term Debt Fund Direct Growth
-HDFC Income Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
 HDFC Infrastructure Fund Direct Growth
 HDFC Corporate Bond Fund Direct Plan Growth
-HDFC Hybrid Debt Fund Direct Growth
+HDFC Conservative Hybrid Fund Direct Growth
 HDFC Mid Cap Fund Direct Growth
 HDFC Equity Savings Direct Plan Growth
 HDFC Multi Asset Allocation Fund Direct Growth
-HDFC Hybrid Equity Fund Direct Plan Growth
-HDFC Short Term Debt Fund Direct Plan Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
 HDFC ELSS Tax Saver Fund Direct Plan Growth
 HDFC Large Cap Fund Direct Growth
-HDFC Credit Risk Debt Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
 HDFC Banking and PSU Debt Fund Direct Growth
 HDFC Arbitrage Fund Direct Growth
-HDFC Large and Mid Cap Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
 HDFC Small Cap Fund Direct Growth
 HDFC Ultra Short Term Fund Direct Growth
 HDFC Liquid Direct Plan Growth
 HDFC Overnight Fund Direct Growth
 HDFC Money Market Fund Direct Growth
-HDFC Retirement Savings Fund Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
 HDFC Housing Opportunities Fund Direct Growth
 HDFC Banking & Financial Services Fund Direct Growth
 HDFC Multi Cap Fund Direct Growth
 HDFC Business Cycle Fund Direct Growth
-HDFC Long Duration Debt Fund Direct Growth
+HDFC Long Term Fund Direct Growth
 HDFC MNC Fund Direct Growth
 HDFC Defence Fund Direct Growth
 HDFC Consumption Fund Direct Growth
@@ -553,7 +565,7 @@ HDFC Diversified Equity All Cap Active FoF Direct Growth
 
 About HDFC Mid Cap Fund Direct Growth
 
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 21 Aug 2026 is ₹236.59.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 09 Sep 2026 is ₹232.27.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 ;
 
@@ -637,7 +649,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-7.9.6
+7.9.9
 Share Market
 Indices
 F&O
@@ -985,6 +997,7 @@ Sitemap
 About Us
 Help & Support
 Glossary
+NRI Demat Account
 Show More
 Others:
 NSE
@@ -1002,6 +1015,7 @@ Investor Charter and Grievance
 Bug Bounty
 Groww Pay - Terms of use
 Groww Pay - Privacy policy
+Groww IFSC
 Mutual Funds
 :
 A
@@ -1063,100 +1077,103 @@ Others
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 |---|---|---|---|---|
-| 1 year | ₹60,000 | ₹64,102 | +6.84% | |
-| 3 years | ₹1,80,000 | ₹2,18,635 | +21.46% | |
-| 5 years | ₹3,00,000 | ₹4,86,318 | +62.11% | |
-| 10 years | ₹6,00,000 | ₹17,24,487 | +187.41% |
+| 1 year | ₹60,000 | ₹62,705 | +4.51% | |
+| 3 years | ₹1,80,000 | ₹2,12,281 | +17.93% | |
+| 5 years | ₹3,00,000 | ₹4,72,909 | +57.64% | |
+| 10 years | ₹6,00,000 | ₹16,82,929 | +180.49% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
-| Repo | Unspecified | Repo | 8.11% |
-| The Federal Bank Ltd | Financial | Equity | 4.18% |
-| Max Financial Services Ltd | Financial | Equity | 4.10% |
-| AU Small Finance Bank Ltd | Financial | Equity | 4.08% |
-| Balkrishna Industries Ltd | Consumer Discretionary | Equity | 3.10% |
-| Fortis Healthcare Ltd | Healthcare | Equity | 3.07% |
-| Ipca Laboratories Ltd | Healthcare | Equity | 3.05% |
-| Indian Bank | Financial | Equity | 2.98% |
-| Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 2.93% |
-| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 2.64% |
-| Cummins India Ltd | Industrials | Equity | 2.52% |
+| Repo | Unspecified | Repo | 6.92% |
+| The Federal Bank Ltd | Financial | Equity | 4.36% |
+| AU Small Finance Bank Ltd | Financial | Equity | 3.96% |
+| Max Financial Services Ltd | Financial | Equity | 3.72% |
+| Balkrishna Industries Ltd | Consumer Discretionary | Equity | 3.37% |
+| Ipca Laboratories Ltd | Healthcare | Equity | 3.01% |
+| Indian Bank | Financial | Equity | 2.93% |
+| Fortis Healthcare Ltd | Healthcare | Equity | 2.91% |
+| Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 2.85% |
+| Coforge Ltd | Technology | Equity | 2.56% |
 | Marico Ltd | Consumer Staples | Equity | 2.51% |
-| Coforge Ltd | Technology | Equity | 2.27% |
-| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 2.27% |
-| Tata Communications Ltd | Technology | Equity | 2.18% |
-| Aurobindo Pharma Ltd | Healthcare | Equity | 2.09% |
-| Mahindra & Mahindra Financial Services Ltd | Financial | Equity | 2.07% |
-| Apollo Tyres Ltd | Consumer Discretionary | Equity | 1.79% |
-| Alkem Laboratories Ltd | Healthcare | Equity | 1.75% |
-| AIA Engineering Ltd | Industrials | Equity | 1.68% |
-| United Spirits Ltd | Consumer Staples | Equity | 1.60% |
-| Gland Pharma Ltd | Healthcare | Equity | 1.56% |
-| Dabur India Ltd | Consumer Staples | Equity | 1.56% |
-| Jindal Steel & Power Ltd | Materials | Equity | 1.55% |
-| Union Bank of India | Financial | Equity | 1.54% |
-| PB Fintech Ltd | Financial | Equity | 1.53% |
-| Delhivery Ltd | Industrials | Equity | 1.48% |
-| Mphasis Ltd | Technology | Equity | 1.46% |
-| Persistent Systems Ltd | Technology | Equity | 1.44% |
-| Bharat Forge Ltd | Consumer Discretionary | Equity | 1.37% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.24% |
-| Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.20% |
-| Karur Vysya Bank Ltd | Financial | Equity | 1.17% |
-| Nippon Life India Asset Management Ltd | Financial | Equity | 1.14% |
-| Coromandel International Ltd | Materials | Equity | 1.06% |
-| Zomato Ltd | Technology | Equity | 1.05% |
-| The Indian Hotels Company Ltd | Consumer Discretionary | Equity | 1.00% |
-| Indusind Bank Ltd | Financial | Equity | 0.99% |
-| Escorts Kubota Ltd | Industrials | Equity | 0.84% |
-| Indraprastha Gas Ltd | Energy & Utilities | Equity | 0.84% |
-| Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.83% |
-| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.78% |
-| Redington Ltd | Technology | Equity | 0.78% |
-| Timken India Ltd | Industrials | Equity | 0.76% |
-| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.76% |
-| City Union Bank Ltd | Financial | Equity | 0.69% |
+| Mahindra & Mahindra Financial Services Ltd | Financial | Equity | 2.43% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 2.30% |
+| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 2.26% |
+| Cummins India Ltd | Industrials | Equity | 2.19% |
+| Aurobindo Pharma Ltd | Healthcare | Equity | 2.01% |
+| United Spirits Ltd | Consumer Staples | Equity | 1.98% |
+| Tata Communications Ltd | Technology | Equity | 1.86% |
+| Persistent Systems Ltd | Technology | Equity | 1.81% |
+| Alkem Laboratories Ltd | Healthcare | Equity | 1.73% |
+| Apollo Tyres Ltd | Consumer Discretionary | Equity | 1.71% |
+| Mphasis Ltd | Technology | Equity | 1.59% |
+| Dabur India Ltd | Consumer Staples | Equity | 1.55% |
+| Jindal Steel & Power Ltd | Materials | Equity | 1.54% |
+| PB Fintech Ltd | Financial | Equity | 1.49% |
+| AIA Engineering Ltd | Industrials | Equity | 1.48% |
+| Union Bank of India | Financial | Equity | 1.47% |
+| Delhivery Ltd | Industrials | Equity | 1.45% |
+| Gland Pharma Ltd | Healthcare | Equity | 1.44% |
+| Bharat Forge Ltd | Consumer Discretionary | Equity | 1.35% |
+| Karur Vysya Bank Ltd | Financial | Equity | 1.28% |
+| Zomato Ltd | Technology | Equity | 1.24% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.22% |
+| Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.18% |
+| Indusind Bank Ltd | Financial | Equity | 1.14% |
+| Nippon Life India Asset Management Ltd | Financial | Equity | 1.10% |
+| Coromandel International Ltd | Materials | Equity | 1.09% |
+| The Indian Hotels Company Ltd | Consumer Discretionary | Equity | 0.99% |
+| Escorts Kubota Ltd | Industrials | Equity | 0.87% |
+| Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.84% |
+| Redington Ltd | Technology | Equity | 0.84% |
+| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 0.83% |
+| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.80% |
+| Indraprastha Gas Ltd | Energy & Utilities | Equity | 0.74% |
+| Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 0.74% |
+| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.71% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.70% |
+| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.69% |
 | Sundram Fasteners Ltd | Industrials | Equity | 0.67% |
-| SKF India (Industrial) Ltd | Industrials | Equity | 0.67% |
-| ACC Ltd | Materials | Equity | 0.62% |
-| Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 0.62% |
-| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.61% |
-| Gujarat Fluorochemicals Ltd | Materials | Equity | 0.54% |
-| Supreme Industries Ltd | Materials | Equity | 0.52% |
-| KEC International Ltd | Diversified | Equity | 0.47% |
-| Arvind Ltd | Consumer Discretionary | Equity | 0.47% |
-| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 0.45% |
-| Vardhman Textiles Ltd | Consumer Discretionary | Equity | 0.39% |
-| SKF India Ltd | Industrials | Equity | 0.39% |
-| Aster DM Healthcare Ltd | Healthcare | Equity | 0.39% |
-| Cholamandalam Financial Holdings Ltd | Financial | Equity | 0.37% |
+| City Union Bank Ltd | Financial | Equity | 0.65% |
+| ACC Ltd | Materials | Equity | 0.61% |
+| SKF India (Industrial) Ltd | Industrials | Equity | 0.61% |
+| Timken India Ltd | Industrials | Equity | 0.58% |
+| Gujarat Fluorochemicals Ltd | Materials | Equity | 0.58% |
+| Supreme Industries Ltd | Materials | Equity | 0.55% |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 0.42% |
+| KEC International Ltd | Diversified | Equity | 0.40% |
+| Arvind Ltd | Consumer Discretionary | Equity | 0.40% |
 | Oracle Financial Services Software Ltd | Technology | Equity | 0.36% |
-| Aarti Industries Ltd | Materials | Equity | 0.35% |
-| Vesuvius India Ltd | Industrials | Equity | 0.33% |
-| Emami Ltd | Consumer Staples | Equity | 0.30% |
-| Symphony Ltd | Consumer Discretionary | Equity | 0.25% |
-| Navneet Education Ltd | Consumer Discretionary | Equity | 0.22% |
-| Bharti Hexacom Ltd. | Technology | Equity | 0.20% |
-| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.20% |
-| Five-Star Business Finance Ltd | Financial | Equity | 0.19% |
-| Greenlam Industries Ltd | Materials | Equity | 0.16% |
-| Greenply Industries Ltd | Materials | Equity | 0.16% |
-| Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.16% |
-| LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.15% |
-| KNR Constructions Ltd | Industrials | Equity | 0.14% |
-| Dhanuka Agritech Ltd | Materials | Equity | 0.11% |
+| Aarti Industries Ltd | Materials | Equity | 0.36% |
+| Vardhman Textiles Ltd | Consumer Discretionary | Equity | 0.35% |
+| Cholamandalam Financial Holdings Ltd | Financial | Equity | 0.33% |
+| SKF India Ltd | Industrials | Equity | 0.33% |
+| Vesuvius India Ltd | Industrials | Equity | 0.30% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.28% |
+| Emami Ltd | Consumer Staples | Equity | 0.28% |
+| Symphony Ltd | Consumer Discretionary | Equity | 0.24% |
+| Bharti Hexacom Ltd. | Technology | Equity | 0.21% |
+| Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.21% |
+| Petronet LNG Ltd | Energy & Utilities | Equity | 0.20% |
+| Five-Star Business Finance Ltd | Financial | Equity | 0.20% |
+| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.19% |
+| Navneet Education Ltd | Consumer Discretionary | Equity | 0.18% |
+| Greenlam Industries Ltd | Materials | Equity | 0.15% |
+| Greenply Industries Ltd | Materials | Equity | 0.15% |
+| LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.14% |
+| KNR Constructions Ltd | Industrials | Equity | 0.12% |
+| Dhanuka Agritech Ltd | Materials | Equity | 0.10% |
 | Greenpanel Industries Ltd | Materials | Equity | 0.08% |
-| Jagran Prakashan Ltd | Industrials | Equity | 0.04% |
-| Net Payables | Unspecified | Net Payables | -0.17% |
+| Jagran Prakashan Ltd | Industrials | Equity | 0.03% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.02% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
-| Fund returns | +20.0% | +21.4% | +17.9% | +20.4% |
+| Fund returns | +17.0% | +19.3% | +17.3% | +20.1% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 13 | 3 | 8 | -- |
+| Rank (Equity Mid Cap) | 14 | 4 | 8 | -- |
 | Name | 1Y | 3Y | Fund Size(Cr) | |
 |---|---|---|---|---|
-WhiteOak Capital Mid Cap Fund Direct Growth | +16.70% | +24.34% | 6,792.14 | |
-Edelweiss Mid Cap Direct Plan Growth | +9.97% | +23.49% | 18,693.49 | |
-Sundaram Mid Cap Fund Direct Growth | +10.37% | +21.59% | 14,504.36 | |
-Nippon India Growth Mid Cap Fund Direct Growth | +10.21% | +21.50% | 50,750.81 | |
-HDFC Mid Cap Fund Direct Growth | +10.38% | +20.00% | 1,05,142.69 | |
+Invesco India Mid Cap Fund Direct Growth | +11.64% | +23.52% | 15,927.14 | |
+WhiteOak Capital Mid Cap Fund Direct Growth | +16.16% | +21.78% | 6,792.14 | |
+Edelweiss Mid Cap Direct Plan Growth | +9.96% | +20.76% | 18,693.49 | |
+Nippon India Growth Mid Cap Fund Direct Growth | +9.70% | +17.88% | 52,270.55 | |
+HDFC Mid Cap Fund Direct Growth | +9.12% | +17.03% | 1,08,324.55 | |
 | Compare |
