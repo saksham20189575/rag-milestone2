@@ -63,15 +63,15 @@ Assets
 HDFC Gold ETF
 Unspecified
 Mutual Fund
-100.05%
+100.07%
 Repo
 Unspecified
 Repo
-0.04%
+0.11%
 Net Payables
 Unspecified
 Net Payables
--0.09%
+-0.18%
 
 Minimum investments
 
@@ -112,7 +112,7 @@ Category average ( Commodities Gold )
 +17.0%
 --
 Rank ( Commodities Gold )
-8
+6
 6
 3
 --
@@ -764,11 +764,11 @@ Others
 | 10 years | ₹6,00,000 | ₹18,40,563 | +206.76% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
-| HDFC Gold ETF | Unspecified | Mutual Fund | 100.05% |
-| Repo | Unspecified | Repo | 0.04% |
-| Net Payables | Unspecified | Net Payables | -0.09% |
+| HDFC Gold ETF | Unspecified | Mutual Fund | 100.07% |
+| Repo | Unspecified | Repo | 0.11% |
+| Net Payables | Unspecified | Net Payables | -0.18% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
 | Fund returns | +35.5% | +25.1% | +16.1% | +11.2% |
 | Category average (Commodities Gold) | +34.1% | +21.0% | +17.0% | -- |
-| Rank (Commodities Gold) | 8 | 6 | 3 | -- |
+| Rank (Commodities Gold) | 6 | 6 | 3 | -- |

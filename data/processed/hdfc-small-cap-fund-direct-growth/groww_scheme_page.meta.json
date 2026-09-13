@@ -7,9 +7,9 @@
   "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
   "source_domain": "groww.in",
   "document_date": "2026-09-11",
-  "parsed_at": "2026-09-12T08:47:05Z",
-  "fetched_at": "2026-09-12T08:47:03Z",
+  "parsed_at": "2026-09-13T09:42:03Z",
+  "fetched_at": "2026-09-13T09:42:01Z",
   "parse_method": "beautifulsoup+trafilatura",
-  "char_count": 24188,
+  "char_count": 24312,
   "raw_html_path": "data/raw/hdfc-small-cap-fund-direct-growth/page.html"
 }

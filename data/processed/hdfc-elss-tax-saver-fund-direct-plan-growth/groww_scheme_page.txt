@@ -64,75 +64,67 @@ Assets
 ICICI Bank Ltd
 Financial
 Equity
-9.14%
+9.32%
 HDFC Bank Ltd
 Financial
 Equity
-7.72%
+7.36%
 Axis Bank Ltd
 Financial
 Equity
-6.11%
+6.50%
 Maruti Suzuki India Ltd
 Consumer Discretionary
 Equity
-4.86%
-Bharti Airtel Ltd
-Technology
-Equity
-4.64%
+4.66%
 State Bank of India
 Financial
 Equity
-4.47%
+4.64%
 Kotak Mahindra Bank Ltd
 Financial
 Equity
-4.24%
+4.59%
+Bharti Airtel Ltd
+Technology
+Equity
+4.29%
 SBI Life Insurance Company Ltd
 Financial
 Equity
-3.49%
+3.25%
 HCL Technologies Ltd
 Technology
 Equity
-2.99%
+2.93%
 Hyundai Motor India Ltd.
 Consumer Discretionary
 Equity
-2.71%
+2.76%
 Reliance Industries Ltd
 Energy & Utilities
 Equity
-2.70%
+2.66%
 Zomato Ltd
 Technology
 Equity
-2.11%
+2.31%
 Bajaj Auto Ltd
 Consumer Discretionary
 Equity
-1.85%
+1.96%
 Tata Steel Ltd
 Materials
 Equity
-1.77%
+1.73%
 Britannia Industries Ltd
 Consumer Staples
 Equity
-1.76%
-Power Grid Corporation of India Ltd
-Energy & Utilities
-Equity
 1.72%
-Infosys Ltd
-Technology
-Equity
-1.69%
 Larsen & Toubro Ltd
 Industrials
 Equity
-1.55%
+1.60%
 Apollo Hospitals Enterprise Ltd
 Healthcare
 Equity
@@ -140,187 +132,195 @@ Equity
 JSW Steel Ltd
 Materials
 Equity
-1.46%
+1.51%
+Bosch Ltd
+Consumer Discretionary
+Equity
+1.41%
 Dr. Lal Pathlabs Ltd
 Healthcare
+Equity
+1.38%
+PB Fintech Ltd
+Financial
 Equity
 1.35%
 Interglobe Aviation Ltd
 Industrials
 Equity
-1.32%
+1.34%
 Karur Vysya Bank Ltd
 Financial
 Equity
-1.28%
-Alkem Laboratories Ltd
-Healthcare
-Equity
-1.25%
-Metropolis Healthcare Ltd
-Healthcare
-Equity
-1.16%
-Bosch Ltd
-Consumer Discretionary
-Equity
-1.15%
-Cipla Ltd
-Healthcare
-Equity
-1.13%
-Star Health & Allied Insurance Co. Ltd
-Financial
-Equity
-1.12%
-Hindustan Aeronautics Ltd
-Industrials
-Equity
-1.08%
+1.30%
 Jubilant FoodWorks Ltd
 Consumer Discretionary
 Equity
-1.08%
-United Spirits Ltd
-Consumer Staples
-Equity
-1.07%
-ICICI Lombard General Insurance Company Ltd
-Financial
-Equity
-1.05%
-Lupin Ltd
+1.23%
+Metropolis Healthcare Ltd
 Healthcare
 Equity
-1.05%
-Tech Mahindra Ltd
+1.17%
+Alkem Laboratories Ltd
+Healthcare
+Equity
+1.17%
+Infosys Ltd
 Technology
 Equity
-1.03%
+1.17%
+Hindustan Aeronautics Ltd
+Industrials
+Equity
+1.13%
+Cipla Ltd
+Healthcare
+Equity
+1.09%
+Star Health & Allied Insurance Co. Ltd
+Financial
+Equity
+1.07%
 Mphasis Ltd
 Technology
 Equity
-1.02%
-PB Fintech Ltd
+1.06%
+United Spirits Ltd
+Consumer Staples
+Equity
+1.06%
+Power Grid Corporation of India Ltd
+Energy & Utilities
+Equity
+1.03%
+Repo
+Unspecified
+Repo
+1.03%
+ICICI Lombard General Insurance Company Ltd
 Financial
 Equity
 1.02%
+Tech Mahindra Ltd
+Technology
+Equity
+1.02%
+Lupin Ltd
+Healthcare
+Equity
+0.96%
+ICICI Prudential Asset Management Company Ltd.
+Financial
+Equity
+0.96%
 Eicher Motors Ltd
 Consumer Discretionary
 Equity
-0.88%
-Godrej Consumer Products Ltd
-Consumer Staples
-Equity
-0.87%
-ICICI Prudential Asset Management Company Ltd.
-Financial
+0.90%
+JSW Energy Ltd
+Energy & Utilities
 Equity
 0.87%
 Havells India Ltd
 Consumer Discretionary
 Equity
-0.84%
+0.83%
+Chalet Hotels Ltd
+Consumer Discretionary
+Equity
+0.81%
 Hindustan Unilever Ltd
 Consumer Staples
 Equity
-0.78%
-Mahindra & Mahindra Ltd
-Consumer Discretionary
+0.74%
+Godrej Consumer Products Ltd
+Consumer Staples
 Equity
 0.74%
 IIFL Wealth Management Ltd
 Financial
 Equity
-0.71%
-Repo
-Unspecified
-Repo
-0.68%
-Chalet Hotels Ltd
+0.73%
+Mahindra & Mahindra Ltd
 Consumer Discretionary
 Equity
-0.66%
-Crompton Greaves Consumer Electricals Ltd
-Consumer Discretionary
-Equity
-0.57%
+0.72%
 Birla Corporation Ltd
 Materials
 Equity
 0.55%
-Escorts Kubota Ltd
-Industrials
-Equity
-0.52%
 Westlife Development Ltd
 Consumer Discretionary
+Equity
+0.53%
+Life Insurance Corporation of India
+Financial
+Equity
+0.52%
+Bharat Electronics Ltd
+Industrials
 Equity
 0.47%
 The Ramco Cements Ltd
 Materials
 Equity
-0.46%
-Bharat Electronics Ltd
-Industrials
-Equity
-0.43%
-Net Current Assets
-Unspecified
-Net Current Assets
-0.42%
-Suven Pharmaceuticals Ltd
-Healthcare
-Equity
-0.38%
-Popular Vehicles And Services Ltd.
-Consumer Discretionary
-Equity
-0.33%
+0.44%
 Cyient Ltd
 Technology
 Equity
-0.32%
+0.44%
+Suven Pharmaceuticals Ltd
+Healthcare
+Equity
+0.41%
 TeamLease Services Ltd
 Industrials
 Equity
-0.31%
+0.33%
 GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100
 Entities
 GOI Securities
-0.31%
-Delhivery Ltd
-Industrials
+0.32%
+Popular Vehicles And Services Ltd.
+Consumer Discretionary
 Equity
-0.30%
+0.32%
 Anthem Biosciences Ltd.
 Healthcare
 Equity
-0.25%
-Bajaj Electricals Ltd
-Consumer Discretionary
+0.28%
+Rubicon Research Ltd.
+Healthcare
 Equity
-0.18%
+0.25%
 Tata Motors Ltd
 Industrials
 Equity
-0.16%
+0.18%
+Bajaj Electricals Ltd
+Consumer Discretionary
+Equity
+0.13%
 JK Lakshmi Cement Ltd
 Materials
 Equity
 0.13%
-Medi Assist Healthcare Services Ltd.
-Industrials
-Equity
-0.10%
 SBI Funds Management Ltd
 Financial
 Equity
 0.06%
-JSW Energy Ltd
-Energy & Utilities
+Medi Assist Healthcare Services Ltd.
+Industrials
 Equity
-0.05%
+0.04%
+Escorts Kubota Ltd
+Industrials
+Equity
+0.03%
+Net Payables
+Unspecified
+Net Payables
+-0.04%
 See All
 
 Minimum investments
@@ -988,71 +988,71 @@ Others
 | 10 years | ₹6,00,000 | ₹12,98,619 | +116.44% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
-| ICICI Bank Ltd | Financial | Equity | 9.14% |
-| HDFC Bank Ltd | Financial | Equity | 7.72% |
-| Axis Bank Ltd | Financial | Equity | 6.11% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 4.86% |
-| Bharti Airtel Ltd | Technology | Equity | 4.64% |
-| State Bank of India | Financial | Equity | 4.47% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 4.24% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.49% |
-| HCL Technologies Ltd | Technology | Equity | 2.99% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 2.71% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 2.70% |
-| Zomato Ltd | Technology | Equity | 2.11% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.85% |
-| Tata Steel Ltd | Materials | Equity | 1.77% |
-| Britannia Industries Ltd | Consumer Staples | Equity | 1.76% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.72% |
-| Infosys Ltd | Technology | Equity | 1.69% |
-| Larsen & Toubro Ltd | Industrials | Equity | 1.55% |
+| ICICI Bank Ltd | Financial | Equity | 9.32% |
+| HDFC Bank Ltd | Financial | Equity | 7.36% |
+| Axis Bank Ltd | Financial | Equity | 6.50% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 4.66% |
+| State Bank of India | Financial | Equity | 4.64% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 4.59% |
+| Bharti Airtel Ltd | Technology | Equity | 4.29% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.25% |
+| HCL Technologies Ltd | Technology | Equity | 2.93% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 2.76% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 2.66% |
+| Zomato Ltd | Technology | Equity | 2.31% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.96% |
+| Tata Steel Ltd | Materials | Equity | 1.73% |
+| Britannia Industries Ltd | Consumer Staples | Equity | 1.72% |
+| Larsen & Toubro Ltd | Industrials | Equity | 1.60% |
 | Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 1.53% |
-| JSW Steel Ltd | Materials | Equity | 1.46% |
-| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 1.35% |
-| Interglobe Aviation Ltd | Industrials | Equity | 1.32% |
-| Karur Vysya Bank Ltd | Financial | Equity | 1.28% |
-| Alkem Laboratories Ltd | Healthcare | Equity | 1.25% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 1.16% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.15% |
-| Cipla Ltd | Healthcare | Equity | 1.13% |
-| Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.12% |
-| Hindustan Aeronautics Ltd | Industrials | Equity | 1.08% |
-| Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 1.08% |
-| United Spirits Ltd | Consumer Staples | Equity | 1.07% |
-| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 1.05% |
-| Lupin Ltd | Healthcare | Equity | 1.05% |
-| Tech Mahindra Ltd | Technology | Equity | 1.03% |
-| Mphasis Ltd | Technology | Equity | 1.02% |
-| PB Fintech Ltd | Financial | Equity | 1.02% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 0.88% |
-| Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.87% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.87% |
-| Havells India Ltd | Consumer Discretionary | Equity | 0.84% |
-| Hindustan Unilever Ltd | Consumer Staples | Equity | 0.78% |
-| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.74% |
-| IIFL Wealth Management Ltd | Financial | Equity | 0.71% |
-| Repo | Unspecified | Repo | 0.68% |
-| Chalet Hotels Ltd | Consumer Discretionary | Equity | 0.66% |
-| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.57% |
+| JSW Steel Ltd | Materials | Equity | 1.51% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.41% |
+| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 1.38% |
+| PB Fintech Ltd | Financial | Equity | 1.35% |
+| Interglobe Aviation Ltd | Industrials | Equity | 1.34% |
+| Karur Vysya Bank Ltd | Financial | Equity | 1.30% |
+| Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 1.23% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 1.17% |
+| Alkem Laboratories Ltd | Healthcare | Equity | 1.17% |
+| Infosys Ltd | Technology | Equity | 1.17% |
+| Hindustan Aeronautics Ltd | Industrials | Equity | 1.13% |
+| Cipla Ltd | Healthcare | Equity | 1.09% |
+| Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.07% |
+| Mphasis Ltd | Technology | Equity | 1.06% |
+| United Spirits Ltd | Consumer Staples | Equity | 1.06% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.03% |
+| Repo | Unspecified | Repo | 1.03% |
+| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 1.02% |
+| Tech Mahindra Ltd | Technology | Equity | 1.02% |
+| Lupin Ltd | Healthcare | Equity | 0.96% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.96% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 0.90% |
+| JSW Energy Ltd | Energy & Utilities | Equity | 0.87% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.83% |
+| Chalet Hotels Ltd | Consumer Discretionary | Equity | 0.81% |
+| Hindustan Unilever Ltd | Consumer Staples | Equity | 0.74% |
+| Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.74% |
+| IIFL Wealth Management Ltd | Financial | Equity | 0.73% |
+| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.72% |
 | Birla Corporation Ltd | Materials | Equity | 0.55% |
-| Escorts Kubota Ltd | Industrials | Equity | 0.52% |
-| Westlife Development Ltd | Consumer Discretionary | Equity | 0.47% |
-| The Ramco Cements Ltd | Materials | Equity | 0.46% |
-| Bharat Electronics Ltd | Industrials | Equity | 0.43% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.42% |
-| Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.38% |
-| Popular Vehicles And Services Ltd. | Consumer Discretionary | Equity | 0.33% |
-| Cyient Ltd | Technology | Equity | 0.32% |
-| TeamLease Services Ltd | Industrials | Equity | 0.31% |
-| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.31% |
-| Delhivery Ltd | Industrials | Equity | 0.30% |
-| Anthem Biosciences Ltd. | Healthcare | Equity | 0.25% |
-| Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.18% |
-| Tata Motors Ltd | Industrials | Equity | 0.16% |
+| Westlife Development Ltd | Consumer Discretionary | Equity | 0.53% |
+| Life Insurance Corporation of India | Financial | Equity | 0.52% |
+| Bharat Electronics Ltd | Industrials | Equity | 0.47% |
+| The Ramco Cements Ltd | Materials | Equity | 0.44% |
+| Cyient Ltd | Technology | Equity | 0.44% |
+| Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.41% |
+| TeamLease Services Ltd | Industrials | Equity | 0.33% |
+| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.32% |
+| Popular Vehicles And Services Ltd. | Consumer Discretionary | Equity | 0.32% |
+| Anthem Biosciences Ltd. | Healthcare | Equity | 0.28% |
+| Rubicon Research Ltd. | Healthcare | Equity | 0.25% |
+| Tata Motors Ltd | Industrials | Equity | 0.18% |
+| Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.13% |
 | JK Lakshmi Cement Ltd | Materials | Equity | 0.13% |
-| Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.10% |
 | SBI Funds Management Ltd | Financial | Equity | 0.06% |
-| JSW Energy Ltd | Energy & Utilities | Equity | 0.05% |
+| Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.04% |
+| Escorts Kubota Ltd | Industrials | Equity | 0.03% |
+| Net Payables | Unspecified | Net Payables | -0.04% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
 | Fund returns | +12.2% | +14.0% | +12.9% | +13.9% |
