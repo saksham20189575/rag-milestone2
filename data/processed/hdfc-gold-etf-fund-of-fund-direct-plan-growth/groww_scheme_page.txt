@@ -112,8 +112,8 @@ Category average ( Commodities Gold )
 +17.0%
 --
 Rank ( Commodities Gold )
-7
-6
+8
+5
 3
 --
 
@@ -773,4 +773,4 @@ Others
 |---|---|---|---|---|
 | Fund returns | +35.7% | +25.7% | +16.2% | +11.2% |
 | Category average (Commodities Gold) | +34.1% | +21.0% | +17.0% | -- |
-| Rank (Commodities Gold) | 7 | 6 | 3 | -- |
+| Rank (Commodities Gold) | 8 | 5 | 3 | -- |
