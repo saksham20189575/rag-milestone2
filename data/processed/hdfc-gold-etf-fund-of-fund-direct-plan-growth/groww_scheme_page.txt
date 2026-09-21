@@ -39,20 +39,20 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹66,573
-+ 10.96 %
+₹64,968
++ 8.28 %
 3 years
 ₹1,80,000
-₹3,06,047
-+ 70.03 %
+₹3,00,600
++ 67.00 %
 5 years
 ₹3,00,000
-₹6,37,115
-+ 112.37 %
+₹6,31,093
++ 110.36 %
 10 years
 ₹6,00,000
-₹18,40,563
-+ 206.76 %
+₹18,36,897
++ 206.15 %
 
 Holdings ( 3 )
 
@@ -107,10 +107,10 @@ Fund returns
 +16.2%
 +11.2%
 Category average ( Commodities Gold )
-+34.1%
-+21.0%
-+17.0%
---
++37.5%
++26.8%
++17.2%
++13.1%
 Rank ( Commodities Gold )
 8
 5
@@ -760,10 +760,10 @@ Others
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 |---|---|---|---|---|
-| 1 year | ₹60,000 | ₹66,573 | +10.96% | |
-| 3 years | ₹1,80,000 | ₹3,06,047 | +70.03% | |
-| 5 years | ₹3,00,000 | ₹6,37,115 | +112.37% | |
-| 10 years | ₹6,00,000 | ₹18,40,563 | +206.76% |
+| 1 year | ₹60,000 | ₹64,968 | +8.28% | |
+| 3 years | ₹1,80,000 | ₹3,00,600 | +67.00% | |
+| 5 years | ₹3,00,000 | ₹6,31,093 | +110.36% | |
+| 10 years | ₹6,00,000 | ₹18,36,897 | +206.15% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
 | HDFC Gold ETF | Unspecified | Mutual Fund | 100.07% |
@@ -772,5 +772,5 @@ Others
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
 | Fund returns | +35.7% | +25.7% | +16.2% | +11.2% |
-| Category average (Commodities Gold) | +34.1% | +21.0% | +17.0% | -- |
+| Category average (Commodities Gold) | +37.5% | +26.8% | +17.2% | +13.1% |
 | Rank (Commodities Gold) | 8 | 5 | 3 | -- |
