@@ -6,10 +6,10 @@
   "document_type": "groww_scheme_page",
   "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
   "source_domain": "groww.in",
-  "document_date": "2026-09-18",
-  "parsed_at": "2026-09-21T10:09:47Z",
-  "fetched_at": "2026-09-21T10:09:47Z",
+  "document_date": "2026-09-21",
+  "parsed_at": "2026-09-22T09:27:46Z",
+  "fetched_at": "2026-09-22T09:27:42Z",
   "parse_method": "beautifulsoup+trafilatura",
-  "char_count": 19823,
+  "char_count": 19825,
   "raw_html_path": "data/raw/hdfc-large-cap-fund-direct-growth/page.html"
 }
