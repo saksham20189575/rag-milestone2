@@ -3,10 +3,10 @@ HDFC Gold ETF Fund of Fund Direct Plan Growth
 Commodities
 Gold
 High Risk
-+35.59
++35.27
 %
 3Y annualised
--0.44
+-0.25
 %
 1D
 1M
@@ -15,8 +15,8 @@ High Risk
 3Y
 5Y
 All
-NAV: 22 Sep '26
-₹47.17
+NAV: 23 Sep '26
+₹47.05
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -39,20 +39,20 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹64,524
-+ 7.54 %
+₹64,084
++ 6.81 %
 3 years
 ₹1,80,000
-₹2,98,025
-+ 65.57 %
+₹2,95,538
++ 64.19 %
 5 years
 ₹3,00,000
-₹6,25,761
-+ 108.59 %
+₹6,20,754
++ 106.92 %
 10 years
 ₹6,00,000
-₹18,22,246
-+ 203.71 %
+₹18,08,678
++ 201.45 %
 
 Holdings ( 3 )
 
@@ -102,18 +102,18 @@ Name
 10Y
 All
 Fund returns
-+35.6%
-+25.5%
-+16.1%
-+11.2%
++35.3%
++25.3%
++15.9%
++11.1%
 Category average ( Commodities Gold )
 +37.5%
 +26.8%
 +17.2%
 +13.1%
 Rank ( Commodities Gold )
+7
 6
-5
 3
 --
 
@@ -248,7 +248,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 
 About HDFC Gold ETF Fund of Fund Direct Plan Growth
 
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 22 Sep 2026 is ₹47.17.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 23 Sep 2026 is ₹47.05.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 
@@ -760,10 +760,10 @@ Others
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 |---|---|---|---|---|
-| 1 year | ₹60,000 | ₹64,524 | +7.54% | |
-| 3 years | ₹1,80,000 | ₹2,98,025 | +65.57% | |
-| 5 years | ₹3,00,000 | ₹6,25,761 | +108.59% | |
-| 10 years | ₹6,00,000 | ₹18,22,246 | +203.71% |
+| 1 year | ₹60,000 | ₹64,084 | +6.81% | |
+| 3 years | ₹1,80,000 | ₹2,95,538 | +64.19% | |
+| 5 years | ₹3,00,000 | ₹6,20,754 | +106.92% | |
+| 10 years | ₹6,00,000 | ₹18,08,678 | +201.45% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
 | HDFC Gold ETF | Unspecified | Mutual Fund | 100.07% |
@@ -771,6 +771,6 @@ Others
 | Net Payables | Unspecified | Net Payables | -0.18% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
-| Fund returns | +35.6% | +25.5% | +16.1% | +11.2% |
+| Fund returns | +35.3% | +25.3% | +15.9% | +11.1% |
 | Category average (Commodities Gold) | +37.5% | +26.8% | +17.2% | +13.1% |
-| Rank (Commodities Gold) | 6 | 5 | 3 | -- |
+| Rank (Commodities Gold) | 7 | 6 | 3 | -- |
