@@ -3,10 +3,10 @@ HDFC Small Cap Fund Direct Growth
 Equity
 Small Cap
 Very High Risk
-+11.51
++11.16
 %
 3Y annualised
-+0.52
+-0.91
 %
 1D
 1M
@@ -15,14 +15,14 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 23 Sep '26
-₹161.38
+NAV: 24 Sep '26
+₹159.92
 Min. for SIP
 ₹100
 Fund size (AUM)
 ₹41,890.86 Cr
 Expense ratio
-0.77%
+0.78%
 Rating
 3
 
@@ -39,20 +39,20 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹61,998
-+ 3.33 %
+₹61,492
++ 2.49 %
 3 years
 ₹1,80,000
-₹1,97,077
-+ 9.49 %
+₹1,95,353
++ 8.53 %
 5 years
 ₹3,00,000
-₹4,19,239
-+ 39.75 %
+₹4,15,339
++ 38.45 %
 10 years
 ₹6,00,000
-₹15,45,467
-+ 157.58 %
+₹15,30,733
++ 155.12 %
 
 Holdings ( 87 )
 
@@ -439,10 +439,10 @@ Name
 10Y
 All
 Fund returns
-+11.5%
-+14.9%
-+17.5%
-+18.4%
++11.2%
++14.6%
++17.4%
++18.3%
 Category average ( Equity Small Cap )
 +16.6%
 +16.7%
@@ -505,24 +505,24 @@ Name
 3Y
 Fund Size(Cr)
 ITI Small Cap Fund Direct Growth
-+22.37%
-+26.03%
++20.94%
++25.31%
 3,602.85
 Bandhan Small Cap Fund Direct Growth
-+11.89%
-+25.68%
++11.51%
++25.26%
 34,176.02
 Invesco India Small Cap Fund Direct Growth
-+16.91%
-+24.07%
++16.07%
++23.54%
 15,744.40
 Sundaram Small Cap Fund Direct Growth
-+15.81%
-+18.00%
++13.80%
++17.17%
 4,155.35
 Nippon India Small Cap Fund Direct Growth
-+9.76%
-+16.23%
++8.83%
++15.72%
 82,580.31
 Compare
 
@@ -594,7 +594,7 @@ HDFC Children's Fund Direct Plan
 
 About HDFC Small Cap Fund Direct Growth
 
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 23 Sep 2026 is ₹161.38.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 24 Sep 2026 is ₹159.92.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 
@@ -678,7 +678,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.0.2
+8.0.3
 Share Market
 Indices
 F&O
@@ -1106,10 +1106,10 @@ Others
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 |---|---|---|---|---|
-| 1 year | ₹60,000 | ₹61,998 | +3.33% | |
-| 3 years | ₹1,80,000 | ₹1,97,077 | +9.49% | |
-| 5 years | ₹3,00,000 | ₹4,19,239 | +39.75% | |
-| 10 years | ₹6,00,000 | ₹15,45,467 | +157.58% |
+| 1 year | ₹60,000 | ₹61,492 | +2.49% | |
+| 3 years | ₹1,80,000 | ₹1,95,353 | +8.53% | |
+| 5 years | ₹3,00,000 | ₹4,15,339 | +38.45% | |
+| 10 years | ₹6,00,000 | ₹15,30,733 | +155.12% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
 | Repo | Unspecified | Repo | 10.25% |
@@ -1201,14 +1201,14 @@ Others
 | TCI Express Ltd | Industrials | Equity | 0.06% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
-| Fund returns | +11.5% | +14.9% | +17.5% | +18.4% |
+| Fund returns | +11.2% | +14.6% | +17.4% | +18.3% |
 | Category average (Equity Small Cap) | +16.6% | +16.7% | +18.1% | +20.5% |
 | Rank (Equity Small Cap) | 34 | 18 | 5 | -- |
 | Name | 1Y | 3Y | Fund Size(Cr) | |
 |---|---|---|---|---|
-ITI Small Cap Fund Direct Growth | +22.37% | +26.03% | 3,602.85 | |
-Bandhan Small Cap Fund Direct Growth | +11.89% | +25.68% | 34,176.02 | |
-Invesco India Small Cap Fund Direct Growth | +16.91% | +24.07% | 15,744.40 | |
-Sundaram Small Cap Fund Direct Growth | +15.81% | +18.00% | 4,155.35 | |
-Nippon India Small Cap Fund Direct Growth | +9.76% | +16.23% | 82,580.31 | |
+ITI Small Cap Fund Direct Growth | +20.94% | +25.31% | 3,602.85 | |
+Bandhan Small Cap Fund Direct Growth | +11.51% | +25.26% | 34,176.02 | |
+Invesco India Small Cap Fund Direct Growth | +16.07% | +23.54% | 15,744.40 | |
+Sundaram Small Cap Fund Direct Growth | +13.80% | +17.17% | 4,155.35 | |
+Nippon India Small Cap Fund Direct Growth | +8.83% | +15.72% | 82,580.31 | |
 | Compare |
