@@ -6,10 +6,10 @@
   "document_type": "groww_scheme_page",
   "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
   "source_domain": "groww.in",
-  "document_date": "2026-09-24",
-  "parsed_at": "2026-09-25T09:45:42Z",
-  "fetched_at": "2026-09-25T09:45:41Z",
+  "document_date": "2026-09-25",
+  "parsed_at": "2026-09-26T09:29:32Z",
+  "fetched_at": "2026-09-26T09:29:31Z",
   "parse_method": "beautifulsoup+trafilatura",
-  "char_count": 23259,
+  "char_count": 23267,
   "raw_html_path": "data/raw/hdfc-mid-cap-fund-direct-growth/page.html"
 }
