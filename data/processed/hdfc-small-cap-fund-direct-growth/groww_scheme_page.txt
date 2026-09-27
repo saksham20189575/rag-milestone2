@@ -3,7 +3,7 @@ HDFC Small Cap Fund Direct Growth
 Equity
 Small Cap
 Very High Risk
-+11.16
++11.08
 %
 3Y annualised
 -0.06
@@ -39,20 +39,20 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹61,492
-+ 2.49 %
+₹61,449
++ 2.42 %
 3 years
 ₹1,80,000
-₹1,95,353
-+ 8.53 %
+₹1,95,187
++ 8.44 %
 5 years
 ₹3,00,000
-₹4,15,339
-+ 38.45 %
+₹4,14,941
++ 38.31 %
 10 years
 ₹6,00,000
-₹15,30,733
-+ 155.12 %
+₹15,29,105
++ 154.85 %
 
 Holdings ( 87 )
 
@@ -439,7 +439,7 @@ Name
 10Y
 All
 Fund returns
-+11.2%
++11.1%
 +14.6%
 +17.4%
 +18.3%
@@ -1106,10 +1106,10 @@ Others
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 |---|---|---|---|---|
-| 1 year | ₹60,000 | ₹61,492 | +2.49% | |
-| 3 years | ₹1,80,000 | ₹1,95,353 | +8.53% | |
-| 5 years | ₹3,00,000 | ₹4,15,339 | +38.45% | |
-| 10 years | ₹6,00,000 | ₹15,30,733 | +155.12% |
+| 1 year | ₹60,000 | ₹61,449 | +2.42% | |
+| 3 years | ₹1,80,000 | ₹1,95,187 | +8.44% | |
+| 5 years | ₹3,00,000 | ₹4,14,941 | +38.31% | |
+| 10 years | ₹6,00,000 | ₹15,29,105 | +154.85% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
 | Repo | Unspecified | Repo | 10.25% |
@@ -1201,7 +1201,7 @@ Others
 | TCI Express Ltd | Industrials | Equity | 0.06% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
-| Fund returns | +11.2% | +14.6% | +17.4% | +18.3% |
+| Fund returns | +11.1% | +14.6% | +17.4% | +18.3% |
 | Category average (Equity Small Cap) | +16.8% | +16.4% | +17.8% | +20.4% |
 | Rank (Equity Small Cap) | 34 | 18 | 5 | -- |
 | Name | 1Y | 3Y | Fund Size(Cr) | |
