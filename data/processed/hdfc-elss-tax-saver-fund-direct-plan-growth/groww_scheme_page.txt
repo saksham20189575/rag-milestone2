@@ -4,10 +4,10 @@ ELSS • 3Y Lock-in
 Equity
 ELSS
 Very High Risk
-+12.47
++11.93
 %
 3Y annualised
-+0.38
+-1.41
 %
 1D
 1M
@@ -16,8 +16,8 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 25 Sep '26
-₹1,447.38
+NAV: 28 Sep '26
+₹1,426.93
 Min. for SIP
 ₹500
 Fund size (AUM)
@@ -40,20 +40,20 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹57,940
--3.43 %
+₹57,266
+-4.56 %
 3 years
 ₹1,80,000
-₹1,87,909
-+ 4.39 %
+₹1,85,328
++ 2.96 %
 5 years
 ₹3,00,000
-₹3,94,141
-+ 31.38 %
+₹3,88,389
++ 29.46 %
 10 years
 ₹6,00,000
-₹12,27,728
-+ 104.62 %
+₹12,09,718
++ 101.62 %
 
 Holdings ( 65 )
 
@@ -352,17 +352,17 @@ Name
 10Y
 All
 Fund returns
-+12.5%
-+13.4%
-+12.8%
-+13.8%
++11.9%
++13.2%
++12.7%
++13.6%
 Category average ( Equity ELSS )
 +11.4%
 +10.4%
 +13.2%
 +17.1%
 Rank ( Equity ELSS )
-13
+10
 5
 17
 --
@@ -469,7 +469,7 @@ HDFC Innovation Fund Direct Growth
 
 About HDFC ELSS Tax Saver Fund Direct Plan Growth
 
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 25 Sep 2026 is ₹1,447.38.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 28 Sep 2026 is ₹1,426.93.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 ;
 
@@ -981,10 +981,10 @@ Others
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 |---|---|---|---|---|
-| 1 year | ₹60,000 | ₹57,940 | -3.43% | |
-| 3 years | ₹1,80,000 | ₹1,87,909 | +4.39% | |
-| 5 years | ₹3,00,000 | ₹3,94,141 | +31.38% | |
-| 10 years | ₹6,00,000 | ₹12,27,728 | +104.62% |
+| 1 year | ₹60,000 | ₹57,266 | -4.56% | |
+| 3 years | ₹1,80,000 | ₹1,85,328 | +2.96% | |
+| 5 years | ₹3,00,000 | ₹3,88,389 | +29.46% | |
+| 10 years | ₹6,00,000 | ₹12,09,718 | +101.62% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
 | ICICI Bank Ltd | Financial | Equity | 9.32% |
@@ -1054,6 +1054,6 @@ Others
 | Net Payables | Unspecified | Net Payables | -0.04% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
-| Fund returns | +12.5% | +13.4% | +12.8% | +13.8% |
+| Fund returns | +11.9% | +13.2% | +12.7% | +13.6% |
 | Category average (Equity ELSS) | +11.4% | +10.4% | +13.2% | +17.1% |
-| Rank (Equity ELSS) | 13 | 5 | 17 | -- |
+| Rank (Equity ELSS) | 10 | 5 | 17 | -- |
