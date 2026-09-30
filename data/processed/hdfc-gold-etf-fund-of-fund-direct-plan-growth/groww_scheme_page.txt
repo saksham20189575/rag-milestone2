@@ -3,10 +3,10 @@ HDFC Gold ETF Fund of Fund Direct Plan Growth
 Commodities
 Gold
 High Risk
-+34.56
++34.73
 %
 3Y annualised
--2.51
+-0.52
 %
 1D
 1M
@@ -15,12 +15,12 @@ High Risk
 3Y
 5Y
 All
-NAV: 28 Sep '26
-₹45.76
+NAV: 29 Sep '26
+₹45.52
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹12,359.16 Cr
+₹12,359.15 Cr
 Expense ratio
 0.20%
 Rating
@@ -39,20 +39,20 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹62,455
-+ 4.09 %
+₹62,164
++ 3.61 %
 3 years
 ₹1,80,000
-₹2,86,583
-+ 59.21 %
+₹2,84,941
++ 58.30 %
 5 years
 ₹3,00,000
-₹6,01,907
-+ 100.64 %
+₹5,98,447
++ 99.48 %
 10 years
 ₹6,00,000
-₹17,54,484
-+ 192.41 %
+₹17,45,148
++ 190.86 %
 
 Holdings ( 3 )
 
@@ -102,19 +102,19 @@ Name
 10Y
 All
 Fund returns
-+34.6%
-+24.9%
-+15.7%
-+10.9%
++34.7%
++24.7%
++15.6%
++10.8%
 Category average ( Commodities Gold )
 +36.8%
 +26.5%
 +16.9%
 +13.0%
 Rank ( Commodities Gold )
+6
+6
 4
-5
-3
 --
 
 Understand terms
@@ -248,7 +248,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 
 About HDFC Gold ETF Fund of Fund Direct Plan Growth
 
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 28 Sep 2026 is ₹45.76.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 29 Sep 2026 is ₹45.52.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 
@@ -332,7 +332,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.0.3
+8.0.4
 Share Market
 Indices
 F&O
@@ -665,6 +665,7 @@ NFO
 Pricing
 Trust & Safety
 Groww Digest
+Minor Demat Account
 Intraday
 Blog
 Investor Relations
@@ -760,10 +761,10 @@ Others
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 |---|---|---|---|---|
-| 1 year | ₹60,000 | ₹62,455 | +4.09% | |
-| 3 years | ₹1,80,000 | ₹2,86,583 | +59.21% | |
-| 5 years | ₹3,00,000 | ₹6,01,907 | +100.64% | |
-| 10 years | ₹6,00,000 | ₹17,54,484 | +192.41% |
+| 1 year | ₹60,000 | ₹62,164 | +3.61% | |
+| 3 years | ₹1,80,000 | ₹2,84,941 | +58.30% | |
+| 5 years | ₹3,00,000 | ₹5,98,447 | +99.48% | |
+| 10 years | ₹6,00,000 | ₹17,45,148 | +190.86% |
 | Name | Sector | Instruments | Assets |
 |---|---|---|---|
 | HDFC Gold ETF | Unspecified | Mutual Fund | 100.07% |
@@ -771,6 +772,6 @@ Others
 | Net Payables | Unspecified | Net Payables | -0.18% |
 | Name | 3Y | 5Y | 10Y | All |
 |---|---|---|---|---|
-| Fund returns | +34.6% | +24.9% | +15.7% | +10.9% |
+| Fund returns | +34.7% | +24.7% | +15.6% | +10.8% |
 | Category average (Commodities Gold) | +36.8% | +26.5% | +16.9% | +13.0% |
-| Rank (Commodities Gold) | 4 | 5 | 3 | -- |
+| Rank (Commodities Gold) | 6 | 6 | 4 | -- |
